@@ -2,7 +2,7 @@
 
 Welcome, I'm sure you'd stick around.
 
-[![Linkedin Badge](https://img.shields.io/badge/-peculiarrichard-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayokunle-edwards-b07785179/)](https://www.linkedin.com/in/ayokunle-edwards-b07785179/)
+[![Linkedin Badge](https://img.shields.io/badge/-ayokunle-edwards-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayokunle-edwards-b07785179/)](https://www.linkedin.com/in/ayokunle-edwards-b07785179/)
 
 I'm a Frontend Engineer, Solidity Developer, and an IT Business Analyst. I'm passionate about building amazing web and decentralized applications and sharing knowledge.
 
